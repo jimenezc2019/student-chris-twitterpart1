@@ -19,5 +19,5 @@ The following **bonus** features are implemented:
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past tweets infinitely. (2pts)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/zuQ2RITX3YXrQNMUtW/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
